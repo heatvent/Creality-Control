@@ -3,7 +3,7 @@
     "step": {
       "user": {
         "title": "Connettiti alla tua stampante Creality",
-        "description": "Inserisci l'indirizzo IP e la password della tua stampante Creality. La porta predefinita è 18188",
+        "description": "Inserisci l'indirizzo IP e la password della tua stampante Creality. La porta predefinita è 9999",
         "data": {
           "host": "Host",
           "port": "Porta",

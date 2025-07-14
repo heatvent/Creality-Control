@@ -3,7 +3,7 @@
     "step": {
       "user": {
         "title": "Connectez-vous à votre imprimante Creality",
-        "description": "Entrez l'adresse IP et le mot de passe de votre imprimante Creality. Le port par défaut est 18188",
+        "description": "Entrez l'adresse IP et le mot de passe de votre imprimante Creality. Le port par défaut est 9999",
         "data": {
           "host": "Hôte",
           "port": "Port",

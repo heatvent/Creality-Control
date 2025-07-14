@@ -26,7 +26,7 @@ This custom integration allows Home Assistant users to monitor and control their
 You will need the following information to set up the integration:
 
 - **Host**: IP address of your Creality printer.
-- **Port**: Network port for the printer (default: `18188`).
+- **Port**: Network port for the printer (default: `9999`).
 - **Password**: Your printer's password, if set.
 
 ## Important Considerations

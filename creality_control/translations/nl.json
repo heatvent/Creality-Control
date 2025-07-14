@@ -3,7 +3,7 @@
     "step": {
       "user": {
         "title": "Verbind met je Creality-printer",
-        "description": "Voer het IP-adres en wachtwoord in voor je Creality-printer. De standaardpoort is 18188",
+        "description": "Voer het IP-adres en wachtwoord in voor je Creality-printer. De standaardpoort is 9999",
         "data": {
           "host": "Host",
           "port": "Poort",

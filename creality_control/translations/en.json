@@ -3,7 +3,7 @@
     "step": {
       "user": {
         "title": "Connect to your Creality Printer",
-        "description": "Enter the IP address and password for your Creality printer. The default port is 18188",
+        "description": "Enter the IP address and password for your Creality printer. The default port is 9999",
         "data": {
           "host": "Host",
           "port": "Port",

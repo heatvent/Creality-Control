@@ -3,7 +3,7 @@
     "step": {
       "user": {
         "title": "Verbinden Sie Ihren Creality-Drucker",
-        "description": "Geben Sie die IP-Adresse und das Passwort für Ihren Creality-Drucker ein. Der Standardport ist 18188",
+        "description": "Geben Sie die IP-Adresse und das Passwort für Ihren Creality-Drucker ein. Der Standardport ist 9999",
         "data": {
           "host": "Host",
           "port": "Port",

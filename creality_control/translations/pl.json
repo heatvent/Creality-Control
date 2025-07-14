@@ -3,7 +3,7 @@
     "step": {
       "user": {
         "title": "Połącz się z drukarką Creality",
-        "description": "Wprowadź adres IP i hasło do twojej drukarki Creality. Domyślny port to 18188",
+        "description": "Wprowadź adres IP i hasło do twojej drukarki Creality. Domyślny port to 9999",
         "data": {
           "host": "Host",
           "port": "Port",

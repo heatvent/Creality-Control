@@ -3,7 +3,7 @@
     "step": {
       "user": {
         "title": "Anslut till din Creality-skrivare",
-        "description": "Ange IP-adressen och lösenordet för din Creality-skrivare. Standardporten är 18188",
+        "description": "Ange IP-adressen och lösenordet för din Creality-skrivare. Standardporten är 9999",
         "data": {
           "host": "Värd",
           "port": "Port",
